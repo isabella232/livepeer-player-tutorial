@@ -152,3 +152,6 @@ touch index.html
 Coming Soon...
 
 
+### Livepeer+VideoJS+Player Component for Next.js
+[Livepeer Player](https://www.npmjs.com/package/livepeer-player)
+
