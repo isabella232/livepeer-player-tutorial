@@ -34,7 +34,7 @@ This tutorial will help guide users to setup a player using video.js and [Livepe
 
 ![Step 1D](./images/Step_1D.png)
 
-🎉 Amazing you setup your video service account 🎉
+#### 🎉 Amazing you setup your video service account 🎉
 ---
 #### Step 2. Setup your Live Stream Feed
 
@@ -73,7 +73,7 @@ Select video capture device
 You can take a look at the [codepen](https://codepen.io/samuelmtimbo/pen/QWgaZGL)
 
 
-🎉 Amazing! You are now streaming LIVE! 🎉
+#### 🎉 Amazing! You are now streaming LIVE! 🎉
 ---
 #### Step 3. Add Video.js player with Livepeer PlayBack URL using HTML, CSS, JavaScript 
 ---
@@ -145,6 +145,7 @@ touch index.html
 </html>
 ```
 
+#### 🎉 Amazing!  You added a Player! 🎉
 
 
 ### How to build a player using Next.js 
